@@ -1,4 +1,3 @@
-
 ````markdown
 # 🖥️ VM Ubuntu – Infra/Sysadmin Playground
 
@@ -245,8 +244,4 @@ sudo ufw allow 'Nginx HTTP'
 * ✅ Inclui troubleshooting, configuração de SSH, firewall, fail2ban e servidor web
 
 ```
-
-
-
-Quer que eu faça essa versão também?
 ```
