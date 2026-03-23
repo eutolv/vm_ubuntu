@@ -1,4 +1,4 @@
-````markdown
+
 # 🖥️ VM Ubuntu – Infra/Sysadmin Playground
 
 Este repositório documenta a criação e configuração completa de uma **VM Ubuntu 24.04 LTS** feita do zero para estudo e demonstração de habilidades em administração de sistemas, segurança e servidores web.
